@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,200..800;1,6..72,200..800&display=swap');
 
 :root {
-    --primary: #FFFDF6;
+    --primary: #FAF9F6;
     --secondary: #6f6e6c;
     --tertiary: #3c3f3e;
 }
@@ -45,7 +45,7 @@ a:hover,
 
 .blog-title {
     font-family: sans-serif;
-    font-size: 1rem;
+    font-size: 1.05rem;
     margin-bottom: 0.5rem;
     color: var(--tertiary);
 }
@@ -63,7 +63,7 @@ header {
 }
 
 #title {
-    font-size: 1.12rem;
+    font-size: 1.25rem;
 }
 
 #subtitle {
@@ -80,6 +80,9 @@ h1 > a {
 .nav-list > ul {
     list-style: none;
     padding: 0;
+    display: flex;
+    flex-wrap: wrap; /* Allow wrapping on smaller screens */
+    gap: 0.5rem; /* Space between items */
 }
 
 .nav-list > ul >li > a {
@@ -89,16 +92,16 @@ h1 > a {
 }
 
 #img {
-    justify-content: right;
-    width: 100%;
-
+    justify-content: flex-end;
+    align-items: center; /* Vertically center the image */
+    width: 30%; /* Adjusted for better balance */
 }
 
 #img > img {
     border-radius: 50%;
-    width: 25%; 
-    height: auto; 
-    object-fit: cover; 
+    width: 96px; /* Fixed width for better control */
+    height: 96px; /* Maintain a square aspect ratio */
+    object-fit: cover;
 }
 
 
@@ -180,7 +183,7 @@ button {
     
 }
 
-#social-media > i {
+#social-media > #icon {
     font-size: 1.75rem;
     margin-right: 1rem;
     color: var(--tertiary);
@@ -212,9 +215,6 @@ button {
         margin: 1.75rem auto;
     }
 
-    #img > img {
-        width: 40%; 
-    }
     
 }
 
@@ -229,10 +229,6 @@ button {
 
     #subtitle {
         margin-bottom: 1.75rem;
-    }
-
-    #img > img {
-        width: 70%; 
     }
     
 }
