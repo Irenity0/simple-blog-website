@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,200..800;1,6..72,200..800&display=swap');
+
+/* General styles for blog detail page */
+body {
+    background-color: var(--primary);
+    font-family: 'Newreader', serif;
+}
+
+article {
+    margin-bottom: 2rem;
+}
+
+li > a {
+    font-family: sans-serif;
+}
+
+h1 {
+    font-size: 1.05rem;
+    margin-bottom: 0.5rem;
+    font-family: sans-serif;
+}
+
+h2, 
+h3, 
+h4, 
+h5, 
+h6 {
+    font-family: sans-serif;
+    font-size: 1.03rem;
+    margin: 0.5rem 0;
+}
+.date,
+.time {
+    display: inline-block;
+    margin-right: 1.25rem;
+}
+.info {
+    font-size: 0.9rem;
+    color: var(--secondary);
+    margin-bottom: 6rem;
+    gap: 2rem;
+}
+
+#blog-content {
+    line-height: 1.6rem;
+    color: var(--tertiary);
+}
+
+/* Add styles for responsiveness if needed */
+@media screen and (max-width: 768px) {
+    main {
+        width: 90%;
+    }
+}

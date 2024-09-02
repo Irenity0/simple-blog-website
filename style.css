@@ -111,6 +111,10 @@ h1 > a {
     margin: 0 0.25rem;
 }
 
+.blog {
+    margin-bottom: 5rem;
+}
+
 .blog > p {
     margin: 1rem 0;
     line-height: 2rem;
@@ -122,6 +126,9 @@ main {
 
 
 /* footer styles */
+footer {
+    margin-top: 5rem;
+}
 #row-1 {
     justify-content: space-between;
 }
@@ -168,9 +175,11 @@ button {
     background-color: var(--tertiary);
     color: var(--primary);
     font-size: large;
+    cursor: pointer;
 }
 
 #row-3 {
+    padding-bottom: 1rem;
     border-bottom: 0.5px solid #6f6e6c3b ;
 }
 

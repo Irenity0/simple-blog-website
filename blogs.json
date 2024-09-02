@@ -1,0 +1,28 @@
+{
+    "blogs": [
+      {
+        "title": "How to Write a Mini-Essay By Odysseas",
+        "date": "26 Aug 2024",
+        "readTime": "4min read",
+        "excerpt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "slug": "blog-post-1"
+      },
+      
+      {
+        "title": "The Blog # 2 Title",
+        "date": "27 Aug 2024",
+        "readTime": "5min read",
+        "excerpt": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "slug": "blog-post-2"
+      },
+
+      {
+        "title": "The Blog # 2 Title",
+        "date": "27 Aug 2024",
+        "readTime": "5min read",
+        "excerpt": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "slug": "blog-post-3"
+      }
+    ]
+  }
+  

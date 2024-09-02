@@ -1,11 +1,13 @@
 <!DOCTYPE html>
-<html lang="en" data-theme="dark">
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Silent Pen</title>
+    <title>Blog Detail</title>
     <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="blog-style.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
 </head>
 <body>
     <header class="d-f">
@@ -24,8 +26,8 @@
             <img src="avatar.jpeg" alt="Avatar">
         </div>
     </header>
-    <main id="blog-list">
-        <!-- Blog list will be dynamically generated here -->
+    <main>
+        <div id="blog-content"></div>
     </main>
     <footer>
         <div id="row-1" class="d-f">
@@ -53,6 +55,6 @@
         <br>
         <p class="grey copyright">© 2024 Irenity</p>
     </footer>
-    <script src="script.js"></script>
+    <script src="detail-script.js"></script>
 </body>
 </html>
