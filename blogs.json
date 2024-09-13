@@ -9,18 +9,18 @@
       },
       
       {
-        "title": "The Blog # 2 Title",
-        "date": "27 Aug 2024",
-        "readTime": "5min read",
-        "excerpt": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "title": "What are Moon Notes?",
+        "date": "14 Sep 2024",
+        "readTime": "12min read",
+        "excerpt": "Moon notes are observations, reflections or intentions based on the phases of the moon.",
         "slug": "blog-post-2"
       },
 
       {
-        "title": "The Blog # 2 Title",
-        "date": "27 Aug 2024",
-        "readTime": "5min read",
-        "excerpt": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "title": "How to time your projects with Lunar Cycle?",
+        "date": "14 Sep 2024",
+        "readTime": "7min read",
+        "excerpt": "Align Project Phases with Lunar Phases",
         "slug": "blog-post-3"
       }
     ]
