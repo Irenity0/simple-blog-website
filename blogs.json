@@ -1,19 +1,11 @@
 {
     "blogs": [
       {
-        "title": "How to Write a Mini-Essay By Odysseas",
-        "date": "26 Aug 2024",
-        "readTime": "4min read",
-        "excerpt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-        "slug": "blog-post-1"
-      },
-      
-      {
-        "title": "What are Moon Notes?",
+        "title": "Moon Note Templates?",
         "date": "14 Sep 2024",
-        "readTime": "12min read",
-        "excerpt": "Moon notes are observations, reflections or intentions based on the phases of the moon.",
-        "slug": "blog-post-2"
+        "readTime": "3min read",
+        "excerpt": "Here are some templates for your moon notes / logs",
+        "slug": "moon notes templates"
       },
 
       {
@@ -25,11 +17,19 @@
       },
 
       {
-        "title": "Moon Note Templates?",
+        "title": "What are Moon Notes?",
         "date": "14 Sep 2024",
-        "readTime": "3min read",
-        "excerpt": "Here are some templates for your moon notes / logs",
-        "slug": "moon notes templates"
+        "readTime": "12min read",
+        "excerpt": "Moon notes are observations, reflections or intentions based on the phases of the moon.",
+        "slug": "blog-post-2"
+      },
+
+      {
+        "title": "How to Write a Mini-Essay By Odysseas",
+        "date": "26 Aug 2024",
+        "readTime": "4min read",
+        "excerpt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "slug": "blog-post-1"
       }
     ]
   }
