@@ -1,7 +1,7 @@
 # Templates for Daily Moon Notes / Logs 
 <br>
 
-### 1. **New Moon: Goal Setting & Fresh Start**
+### 1. 🌑 **New Moon: Goal Setting & Fresh Start**
 - **Date:** 
 - **Current Projects:**
    - What new projects or ideas am I excited about?
@@ -15,7 +15,7 @@
 <hr>
 <br>
 
-### 2. **Waxing Crescent: Taking Action**
+### 2. 🌒 **Waxing Crescent: Taking Action**
 - **Date:** 
 - **Current Tasks:**
    - What actions can I take today to move forward?
@@ -30,7 +30,7 @@
 <hr>
 <br>
 
-### 3. **First Quarter: Overcoming Obstacles**
+### 3. 🌓 **First Quarter: Overcoming Obstacles**
 - **Date:**
 - **Obstacles Faced:**
    - What challenges am I encountering right now?
@@ -45,7 +45,7 @@
 <hr>
 <br>
 
-### 4. **Waxing Gibbous: Refinement & Focus**
+### 4. 🌔 **Waxing Gibbous: Refinement & Focus**
 - **Date:**
 - **Refining Projects:**
    - What can I improve in my current projects or workflow?
@@ -60,7 +60,7 @@
 <hr>
 <br>
 
-### 5. **Full Moon: Reflect & Celebrate**
+### 5. 🌕 **Full Moon: Reflect & Celebrate**
 - **Date:** 
 - **Achievements:**
    - What have I accomplished so far?
@@ -75,7 +75,7 @@
 <hr>
 <br>
 
-### 6. **Waning Gibbous: Acknowledgment & Gratitude**
+### 6. 🌖 **Waning Gibbous: Acknowledgment & Gratitude**
 - **Date:** 
 - **Acknowledgment:**
    - What successes should I acknowledge, big or small?
@@ -90,7 +90,7 @@
 <hr>
 <br>
 
-### 7. **Last Quarter: Letting Go**
+### 7. 🌗 **Last Quarter: Letting Go**
 - **Date:** 
 - **Tasks to Complete:**
    - What unfinished tasks can I complete now?
@@ -105,7 +105,7 @@
 <hr>
 <br>
 
-### 8. **Waning Crescent: Rest & Prepare**
+### 8. 🌘 **Waning Crescent: Rest & Prepare**
 - **Date:** 
 - **Rest & Recharge:**
    - How can I take care of myself and recharge for the next cycle?
